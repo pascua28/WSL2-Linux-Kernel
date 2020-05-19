@@ -4,10 +4,10 @@
 #
 
 #
-# Compiler: x86_64-generic-linux-gcc (Clear Linux OS for Intel Architecture) 10.1.1 20200513 releases/gcc-10.1.0-36-gf2b77b928a
+# Compiler: x86_64-generic-linux-gcc (Clear Linux OS for Intel Architecture) 9.3.1 20200507 releases/gcc-9.3.0-217-g7790399265
 #
 CONFIG_CC_IS_GCC=y
-CONFIG_GCC_VERSION=100101
+CONFIG_GCC_VERSION=90301
 CONFIG_CLANG_VERSION=0
 CONFIG_CC_HAS_ASM_GOTO=y
 CONFIG_IRQ_WORK=y
